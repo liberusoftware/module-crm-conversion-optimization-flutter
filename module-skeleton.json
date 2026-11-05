@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-conversion-optimization-flutter",
+  "capabilityKey": "liberusoftware/module-crm-conversion-optimization",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_conversion_optimization_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/conversion-optimization.md",
+  "presentationPlan": "projects/crm/flutter/conversion-optimization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
